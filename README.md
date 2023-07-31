@@ -1,4 +1,6 @@
 # Formik-Form
+## Login Form with Validation Using Formik
+<img src="emailandpasswordform.png" width='300'/>
 This is a simple login form with validation using Formik. It includes an email field, a password field, and a Submit button. If the email and/or password fields are empty, it displays the message "field required". If the username is not in an email format, it displays "Username must be an email". If all inputs are successful, it displays an alert indicating successful submission.<br><br>
 To use, clone the repository or download the files. This project uses React, Formik, and Bootstrap. In a terminal window, navigate to the folder in which you hold the files by typing cd where/you/hold/the/files, type npm install, then type npm start. Type localhost:3000 in the browser.<br><br>
 Improvements to the code would include a name field, and a confirmation to the user by email of his or her submission.<br><br>
